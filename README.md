@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 🌟 Estudiante de Ingeniería Informática 🌟<br>👋 ¡Hola! Soy un estudiante apasionado por el aprendizaje de nuevos lenguajes y tecnologías. Aunque soy novato, me encanta explorar y experimentar con diferentes herramientas para mejorar mis habilidades. 🚀<br><br>🌱 Sobre mí<br>🎓 Estudiante de Ingeniería Informática<br>💡 Apasionado por el aprendizaje continuo (aunque falte constancia)<br>💻 Explorando lenguajes de programación y tecnologías web<br>🌐 He creado algunas páginas web (locales) utilizando diferentes tecnologías<br><br>🛠️ Lenguajes y Tecnologías<br>🐍 Python (aprendiendo)<br>☕ Java<br>🌐 HTML/CSS<br>🐘 PHP<br>🌟 JavaScript (aprendiendo)<br>🔧 C<br>🌟 Proyectos Destacados<br>Ninguno todavía, pero tiempo al tiempo🙂<br>
 
 
