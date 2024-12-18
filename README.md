@@ -9,7 +9,7 @@ Puedes contactarme a través de mi [correo](mailto:custodioeyama@gmail.com) o en
 
 # 🔧 Proyectos
 Algunos de los proyectos que puedo destacar son los siguientes:
- - [Web personal](www.angeloeyama.es) - Mi web personal donde muestro mi trabajo y escribo artículos sobre tecnología.
+ - [Web personal](https://www.angeloeyama.es) - Mi web personal donde muestro mi trabajo y escribo artículos sobre tecnología.
 
  - [Quizlet](https://github.com/Angelo-Eyama/quiz) - Una web para realizar test de preguntas, util para evaluar los conocimientos sobre un tema.
 
